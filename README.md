@@ -12,5 +12,7 @@ For mouse brain sections the threshold will likely need to be adjusted for each 
 
 The measurements will be compiled into a csv.
 
-Rhalena A. Thomas, Eddie Cai and Vincent Soubannier.
+Rhalena A. Thomas, Eddie Cai, Vincent Soubannier and Frederick Larroquette
+
+
 
