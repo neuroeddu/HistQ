@@ -14,5 +14,9 @@ The measurements will be compiled into a csv.
 
 Rhalena A. Thomas, Eddie Cai, Vincent Soubannier and Frederick Larroquette
 
+Analysis created for and used in:
+
+Tavassoly O, Del Cid Pellitero E, Larroquette F, Cai E, Thomas RA, Soubannier V, Luo W, Durcan TM, Fon EA. Pharmacological Inhibition of Brain EGFR Activation By a BBB-penetrating Inhibitor, AZD3759, Attenuates α-synuclein Pathology in a Mouse Model of α-Synuclein Propagation. Neurotherapeutics. 2021 Mar 12. doi: 10.1007/s13311-021-01017-6. Epub ahead of print. PMID: 33713002.
+
 
 
